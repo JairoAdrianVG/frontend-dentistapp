@@ -1,0 +1,30 @@
+
+.App {
+  text-align: center;
+  max-width: 90%;
+  max-height: 100%;
+  margin-bottom: 5px;
+  background-color: white;
+}
+
+.container-app{
+  margin-top: 15px;
+  max-width: 90%;
+  max-height: 100%;
+  margin-bottom: 10px;
+  background-color: white;
+  box-shadow: 50% gray;
+  border-radius: 10px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
